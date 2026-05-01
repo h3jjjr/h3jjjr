@@ -48,8 +48,6 @@
         A modern productivity tool for efficient task organization.
       </td>
 
-
-### For Connect:
-- **WhatsApp:** [0591752313](https://wa.me/966591752313)
-- **Email:** [hajrgraphic@Gmail.com](mailto:hajrgraphic@Gmail.com)
-- **Socials:** [@h3jjjr](https://github.com/h3jjjr)
+### 📫 Connect with me
+- ✉️ Email: hajrgraphic@gmail.com
+- 💻 GitHub: https://github.com/h3jjjr
