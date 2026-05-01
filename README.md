@@ -49,5 +49,5 @@
       </td>
 
 ### 📫 Connect with me
-- ✉️ Email: hajrgraphic@gmail.com
-- 💻 GitHub: https://github.com/h3jjjr
+- Email: hajrgraphic@gmail.com
+- Socials: @h3jjjr
