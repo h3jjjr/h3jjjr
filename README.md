@@ -33,7 +33,7 @@
 ### 🚀 Featured Projects
 
  <td width="50%" align="center">
-       <img width="2880" height="1800" alt="tasks" src="https://github.com/user-attachments/assets/ae2f6daa-f9e4-4dcf-bd9a-b1cb1ff15060" />
+       <img width="2880" height="1800" alt="water project" src="https://github.com/user-attachments/assets/a8effa50-0c62-47b0-ae7c-812cf5b3c8d1" />
 
  <br />
         <b>💧 Water Reminder App</b>
