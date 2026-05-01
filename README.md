@@ -32,10 +32,10 @@
 
 ### 🚀 Featured Projects
 
-      <td width="50%" align="center">
+ <td width="50%" align="center">
        <img width="2880" height="1800" alt="tasks" src="https://github.com/user-attachments/assets/ae2f6daa-f9e4-4dcf-bd9a-b1cb1ff15060" />
 
-        <br />
+ <br />
         <b>💧 Water Reminder App</b>
         <br />
         A smart hydration tracker built with Swift & SwiftUI.
