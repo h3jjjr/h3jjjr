@@ -29,6 +29,28 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="<img width="2880" height="1800" alt="screen shot" src="https://github.com/user-attachments/assets/a7d97297-dd3d-49d9-89a5-5be5a44abc84" />
+" width="100%" style="border-radius:10px;"/><br />
+        <b>💧 Water Reminder App</b><br />
+        A smart hydration tracker built with Swift & SwiftUI.
+      </td>
+      <td width="50%" align="center">
+        <img src="<img width="2880" height="1800" alt="tasks" src="https://github.com/user-attachments/assets/d7141a4a-fc36-440a-91d9-fe48b8c75833" />
+" width="100%" style="border-radius:10px;"/><br />
+        <b>📝 Swift Task Manager</b><br />
+        A modern productivity tool for efficient task organization.
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 - **WhatsApp:** [0591752313](https://wa.me/966591752313)
 - **Email:** [hajrgraphic@Gmail.com](mailto:hajrgraphic@Gmail.com)
 - **Socials:** [@h3jjjr](https://github.com/h3jjjr)
