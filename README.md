@@ -32,11 +32,9 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
-  <table border="0">
-    <tr>
       <td width="50%" align="center">
-        <img src="https://github.com/user-attachments/assets/fb895e4e-d4a2-4b6b-95f1-9ff0f6684c4e" width="100%" style="border-radius:10px;" alt="Water Project"/>
+       <img width="2880" height="1800" alt="tasks" src="https://github.com/user-attachments/assets/ae2f6daa-f9e4-4dcf-bd9a-b1cb1ff15060" />
+
         <br />
         <b>💧 Water Reminder App</b>
         <br />
@@ -49,9 +47,6 @@
         <br />
         A modern productivity tool for efficient task organization.
       </td>
-    </tr>
-  </table>
-</div>
 
 
 ### For Connect:
