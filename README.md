@@ -1,16 +1,35 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad70a113-..." width="100%" alt="HAJAR">
+</p>
+<h1 align="center">Hi, I'm Hajar 👋</h1>
+<p align="center">
+  <b>Creative Designer | Software Developer | UI/UX Enthusiast</b>
+</p>
 
-<!--
-**h3jjjr/h3jjjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Graphic Design • Java • Python • Swift • SQL • UI/UX
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌸 About Me
+- 🎨 Passionate about design and creativity  
+- 💻 I build projects using Java & Python  
+- 📱 Interested in UI/UX and app design  
+- 🚀 Always learning and improving  
+
+---
+
+### 🛠 Skills
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+###  for Connect
+
+---
+
+- **WhatsApp:** [0591752313](https://wa.me/966591752313)
+- **Email:** [hajrgraphic@Gmail.com](mailto:hajrgraphic@Gmail.com)
+- **Socials:** [@h3jjjr](https://github.com/h3jjjr)
