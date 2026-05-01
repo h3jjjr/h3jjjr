@@ -11,7 +11,7 @@
 
 ---
 
-### 🌸 About Me
+###  About Me
 - 🎨 Passionate about design and creativity  
 - 💻 I build projects using Java & Python  
 - 📱 Interested in UI/UX and app design  
