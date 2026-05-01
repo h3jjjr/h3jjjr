@@ -36,15 +36,17 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="<img width="2880" height="1800" alt="water project" src="https://github.com/user-attachments/assets/fb095e4e-d4a2-4b6b-95f1-9ff0f6684c4e" />
-" width="100%" style="border-radius:10px;"/><br />
-        <b>💧 Water Reminder App</b><br />
+        <img src="https://github.com/user-attachments/assets/fb895e4e-d4a2-4b6b-95f1-9ff0f6684c4e" width="100%" style="border-radius:10px;" alt="Water Project"/>
+        <br />
+        <b>💧 Water Reminder App</b>
+        <br />
         A smart hydration tracker built with Swift & SwiftUI.
       </td>
       <td width="50%" align="center">
-        <img src="<img width="2880" height="1800" alt="tasks" src="https://github.com/user-attachments/assets/daeae58f-a7f3-4497-916f-525e31940972" />
-" width="100%" style="border-radius:10px;"/><br />
-        <b>📝 Swift Task Manager</b><br />
+        <img src="https://github.com/user-attachments/assets/daeae58f-a7f3-4497-916f-525e31940972" width="100%" style="border-radius:10px;" alt="Task Project"/>
+        <br />
+        <b>📝 Swift Task Manager</b>
+        <br />
         A modern productivity tool for efficient task organization.
       </td>
     </tr>
@@ -52,6 +54,7 @@
 </div>
 
 
+### For Connect:
 - **WhatsApp:** [0591752313](https://wa.me/966591752313)
 - **Email:** [hajrgraphic@Gmail.com](mailto:hajrgraphic@Gmail.com)
 - **Socials:** [@h3jjjr](https://github.com/h3jjjr)
