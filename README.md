@@ -1,9 +1,4 @@
-<img width="6000" height="3375" alt="HAJAR" src="https://github.com/user-attachments/assets/f97e33d2-f76a-49e9-a1de-c2057aaa75db" />
-
-<h1 align="center">Hi, I'm Hajar 👋</h1>
-<p align="center">
-  <b>Creative Designer | Software Developer | UI/UX Enthusiast</b>
-</p>
+p>
 
 <p align="center">
   
