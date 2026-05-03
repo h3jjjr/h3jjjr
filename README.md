@@ -1,10 +1,3 @@
-p>
-
-<p align="center">
-  
-</p>
-
----
 
 ###  About Me
 - 🎨 Passionate about design and creativity  
