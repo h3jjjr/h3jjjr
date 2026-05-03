@@ -1,7 +1,4 @@
-<img width="1920" height="1080" alt="HAJR" src="https://github.com/user-attachments/assets/748d7fcd-9ed2-4b5d-8f37-4619969cc093" />
-<p align="center">
-  <img src="HAJR.png" width="100%" alt="Hajar Profile Banner">
-</p>
+<img width="1920" height="1080" alt="HAJR" src="https://github.com/user-attachments/assets/c914868f-1dfc-4a01-8cde-8ce91ac29af4" />
 
 ###  About Me
 - 🎨 Passionate about design and creativity  
