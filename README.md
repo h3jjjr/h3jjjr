@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Graphic Design • Java • Python • Swift • SQL • UI/UX
+  
 </p>
 
 ---
