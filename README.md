@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="HAJR.png" width="100%" alt="Hajar Profile Banner">
+</p>
 
 ###  About Me
 - 🎨 Passionate about design and creativity  
