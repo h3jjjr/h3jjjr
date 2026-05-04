@@ -37,6 +37,3 @@
         A modern productivity tool for efficient task organization.
       </td>
 
-### 📫 Connect with me
-- Email: hajrgraphic@gmail.com
-- Socials: @h3jjjr
